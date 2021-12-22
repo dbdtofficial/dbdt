@@ -1,2 +1,2 @@
-# dbdt
+# DBDT
 Digital Blockchain Dominance Token (DBDT)
